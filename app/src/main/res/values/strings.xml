@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bingov2</string>
+    <string name="n">N</string>
+    <string name="g">G</string>
+    <string name="o">O</string>
+    <string name="reset">reset</string>
+    <string name="i">I</string>
+    <string name="b">B</string>
+    <string name="start">Start</string>
+</resources>

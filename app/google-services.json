@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158968530001",
+    "firebase_url": "https://bingov2-9.firebaseio.com",
+    "project_id": "bingov2-9",
+    "storage_bucket": "bingov2-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158968530001:android:65bc1be9205006a7",
+        "android_client_info": {
+          "package_name": "com.example.vaibhav.bingov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158968530001-5ciahikfmreh7vvc0kb90kfeldblctu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaibhav.bingov2",
+            "certificate_hash": "9cb16e7fc74949d01dd7ddcbe998b1a9fecbc6d0"
+          }
+        },
+        {
+          "client_id": "158968530001-omp952hsbdm6l4tn5bik7qsfl423unic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RLgYkE0WkEdK7_egeUlDjBnbObo8VF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158968530001-omp952hsbdm6l4tn5bik7qsfl423unic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
